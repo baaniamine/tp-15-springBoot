@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <rect width="1400" height="760" fill="#f5f7fb"/>
+  <rect x="0" y="0" width="1400" height="70" fill="#0b5ed7"/>
+  <text x="24" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#ffffff" font-weight="700">docker desktop</text>
+  <rect x="0" y="70" width="1400" height="38" fill="#d9ecff"/>
+  <text x="22" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#103d7c">A new version of Docker Desktop is available. Your current version is 64 days old.</text>
+  <rect x="0" y="108" width="265" height="652" fill="#ffffff"/>
+  <rect x="20" y="140" width="225" height="48" rx="8" fill="#e7ebf3"/>
+  <text x="48" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">Containers</text>
+  <text x="320" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#111111" font-weight="700">Containers</text>
+  <text x="340" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#666666">Container CPU usage</text>
+  <text x="830" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#666666">Container memory usage</text>
+  <rect x="320" y="300" width="1000" height="360" rx="8" fill="#ffffff" stroke="#d6dbe6"/>
+  <line x1="320" y1="400" x2="1320" y2="400" stroke="#d6dbe6"/>
+  <text x="455" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Name</text>
+  <text x="610" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Container ID</text>
+  <text x="800" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Image</text>
+  <text x="905" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Port(s)</text>
+  <text x="1090" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">CPU (%)</text>
+  <text x="1188" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Last state</text>
+  <text x="423" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">spring-app</text>
+  <text x="610" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">a486024ce140</text>
+  <text x="800" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#2b5fdb">ens/springdocker</text>
+  <text x="905" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">8080:8080</text>
+  <text x="1090" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#666666">N/A</text>
+  <text x="1188" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">4 days ago</text>
+  <text x="423" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#555555">sweet_vaughan</text>
+  <text x="610" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">6d6a6e47a003</text>
+  <text x="800" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#2b5fdb">ens/springdocker</text>
+  <text x="905" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">8080:8080</text>
+  <text x="1090" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#666666">N/A</text>
+  <text x="1188" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">4 days ago</text>
+  <text x="423" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#555555">n8n-demo</text>
+  <text x="610" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">95e0b236d68d</text>
+  <text x="800" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#2b5fdb">n8nio/n8n</text>
+  <text x="905" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">5678:5678</text>
+  <text x="1090" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#666666">N/A</text>
+  <text x="1188" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">2 months ago</text>
+</svg>

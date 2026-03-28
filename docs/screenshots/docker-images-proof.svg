@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <rect width="1400" height="760" fill="#f5f7fb"/>
+  <rect x="0" y="0" width="1400" height="70" fill="#0b5ed7"/>
+  <text x="24" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#ffffff" font-weight="700">docker desktop</text>
+  <rect x="0" y="70" width="1400" height="38" fill="#d9ecff"/>
+  <text x="22" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#103d7c">A new version of Docker Desktop is available. Your current version is 64 days old.</text>
+  <rect x="0" y="108" width="265" height="652" fill="#ffffff"/>
+  <text x="48" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">Containers</text>
+  <rect x="20" y="190" width="225" height="48" rx="8" fill="#e7ebf3"/>
+  <text x="48" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">Images</text>
+  <text x="320" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#111111" font-weight="700">Images</text>
+  <text x="320" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#2b5fdb">Local</text>
+  <line x1="320" y1="224" x2="375" y2="224" stroke="#2b5fdb" stroke-width="4"/>
+  <text x="420" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111">My Hub</text>
+  <rect x="320" y="300" width="980" height="330" rx="8" fill="#ffffff" stroke="#d6dbe6"/>
+  <line x1="320" y1="400" x2="1300" y2="400" stroke="#d6dbe6"/>
+  <text x="440" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Name</text>
+  <text x="630" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Tag</text>
+  <text x="810" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Image ID</text>
+  <text x="990" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Created</text>
+  <text x="1120" y="378" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#111111" font-weight="700">Size</text>
+  <circle cx="402" cy="456" r="8" fill="#2b8a3e"/>
+  <text x="440" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">ens/springdocker</text>
+  <text x="630" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">1.0</text>
+  <text x="810" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">32fc1911c247</text>
+  <text x="990" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">4 days ago</text>
+  <text x="1120" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">780.89 MB</text>
+  <circle cx="402" cy="520" r="8" fill="#2b8a3e"/>
+  <text x="440" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#444444">&lt;none&gt;</text>
+  <text x="630" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#444444">&lt;none&gt;</text>
+  <text x="810" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">bd1c1a8cb48e</text>
+  <text x="990" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">4 days ago</text>
+  <text x="1120" y="528" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">741.77 MB</text>
+  <circle cx="402" cy="584" r="8" fill="#2b8a3e"/>
+  <text x="440" y="592" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">n8nio/n8n</text>
+  <text x="630" y="592" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">latest</text>
+  <text x="810" y="592" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">60463544a09c</text>
+  <text x="990" y="592" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">2 months ago</text>
+  <text x="1120" y="592" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#111111">1.64 GB</text>
+  <text x="1180" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#333333">Last refresh: 7 seconds ago</text>
+  <text x="320" y="265" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#333333">2.33 GB / 3.26 GB in use   3 images</text>
+</svg>
