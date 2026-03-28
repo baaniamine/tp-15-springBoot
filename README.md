@@ -130,11 +130,6 @@ docker-compose logs -f
 docker-compose down
 ```
 
-## Notes utiles
-
-- Si MySQL tourne sur la machine hote au lieu d'un conteneur Docker, `localhost` dans le conteneur ne pointera pas toujours vers l'hote.
-- Avec Docker Desktop sur Windows ou macOS, `host.docker.internal` peut etre utilise si necessaire.
-- Avec `docker-compose.yml`, le service Spring utilise directement le nom du service MySQL `mysql-db`.
 
 ## Preuves visuelles
 
@@ -142,13 +137,13 @@ docker-compose down
 
 La capture suivante reprend la verification de l'image `ens/springdocker:1.0` dans Docker Desktop :
 
-![Image Docker springdocker](docs/screenshots/docker-images-proof.svg)
+<img width="1597" height="878" alt="image" src="https://github.com/user-attachments/assets/be19456c-3ef4-44df-a31b-f419921fed08" />
 
 ### Conteneur de l'application
 
 La capture suivante reprend la presence du conteneur `spring-app` expose sur `8080:8080` :
 
-![Conteneur spring-app](docs/screenshots/docker-containers-proof.svg)
+<img width="1579" height="914" alt="image" src="https://github.com/user-attachments/assets/0fab9415-d308-481b-8ecf-2cff53e552f2" />
 
 ## Resultat attendu
 
